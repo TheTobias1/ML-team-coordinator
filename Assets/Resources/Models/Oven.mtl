@@ -1,0 +1,13 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl OvenGlass
+Kd 0.1886792 0.1886792 0.1886792
+d 1
+
+newmtl OvenMetal
+Kd 1 1 1
+d 1
+
